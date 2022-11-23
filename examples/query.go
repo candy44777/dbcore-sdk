@@ -3,7 +3,7 @@ package examples
 import (
 	"context"
 	"fmt"
-	"gitee.com/candy44/dbcore-sdk/pkg/builder"
+	"github.com/candy44777/dbcore-sdk/pkg/builder"
 	"google.golang.org/grpc"
 	"log"
 	"time"

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gitee.com/candy44/dbcore-sdk/examples"
+	"github.com/candy44777/dbcore-sdk/examples"
 )
 
 type Dept struct {

@@ -1,4 +1,4 @@
-module gitee.com/candy44/dbcore-sdk
+module github.com/candy44777/dbcore-sdk
 
 go 1.18
 

@@ -1,7 +1,7 @@
 package builder
 
 import (
-	"gitee.com/candy44/dbcore-sdk/pbfiles"
+	"github.com/candy44777/dbcore-sdk/pbfiles"
 	"google.golang.org/protobuf/types/known/structpb"
 	"log"
 )

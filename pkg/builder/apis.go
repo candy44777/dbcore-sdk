@@ -2,8 +2,8 @@ package builder
 
 import (
 	"context"
-	"gitee.com/candy44/dbcore-sdk/heplers"
-	"gitee.com/candy44/dbcore-sdk/pbfiles"
+	"github.com/candy44777/dbcore-sdk/heplers"
+	"github.com/candy44777/dbcore-sdk/pbfiles"
 	"github.com/mitchellh/mapstructure"
 )
 

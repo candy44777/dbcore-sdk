@@ -3,7 +3,7 @@ package builder
 import (
 	"context"
 	"fmt"
-	"gitee.com/candy44/dbcore-sdk/pbfiles"
+	"github.com/candy44777/dbcore-sdk/pbfiles"
 	"github.com/mitchellh/mapstructure"
 
 	"google.golang.org/grpc"
